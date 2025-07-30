@@ -1,0 +1,6 @@
+.streaming{
+    font-style: italic;
+    color: #888;
+    margin-top: 10px;
+    animation: typing 1.5s infinite steps(4, end);
+}
